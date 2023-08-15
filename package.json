@@ -4,7 +4,6 @@
   "description": "",
   "type": "module",
   "main": "index.js",
-  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node --experimental-modules --es-module-specifier-resolution=node index.js",
